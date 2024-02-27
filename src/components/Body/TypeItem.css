@@ -1,0 +1,27 @@
+.type-card {
+  position: relative;
+  color: white;
+  max-width: 50px;
+  height: 50px;
+  background-color: azure;
+  background-size: cover;
+  background-position: center;
+  border: none;
+  border-radius: 12px;
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
+}
+
+.card-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+}
+.type-item-content h1 {
+  font-size: 15px;
+}
+
+.type-item-content p {
+  font-size: 12px;
+}

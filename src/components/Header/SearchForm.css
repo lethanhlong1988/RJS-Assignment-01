@@ -1,0 +1,29 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  border: none;
+  /* color: #ced4da; */
+}
+
+.icon {
+  color: #ced4da;
+  height: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.input_controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.input_control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}

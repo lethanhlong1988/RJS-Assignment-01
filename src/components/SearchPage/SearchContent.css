@@ -1,0 +1,31 @@
+.ItemContent {
+  font-size: 8px;
+}
+
+.SearchContent_container {
+  margin-top: 5rem;
+}
+
+.SearchContent_concept {
+  display: flex;
+}
+
+.searchConcept1 {
+  flex: 1;
+  width: 25%;
+  background-color: #f9c74f;
+  padding: 5px;
+  justify-content: center;
+  /* border: 1px solid #fff; */
+  border-radius: 12px;
+  align-self: flex-start;
+}
+
+.searchConcept2 {
+  flex: 3;
+  width: 75%;
+  margin-left: 12px;
+  /* background-color: #fff; */
+  /* border: 2px solid #e5e5e5; */
+  /* border-radius: 8px; */
+}

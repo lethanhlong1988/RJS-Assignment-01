@@ -1,0 +1,13 @@
+.navitem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.52rem;
+  padding: 0px 10px;
+  height: 40px;
+}
+
+.active {
+  border: 1px solid white;
+  border-radius: 25px;
+}

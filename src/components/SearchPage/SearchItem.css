@@ -1,0 +1,99 @@
+.ItemCard {
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  padding: 5px;
+  background-color: white;
+}
+
+.ItemContent {
+  display: flex;
+  gap: 10px;
+}
+
+.ItemContent img {
+  width: 75px;
+  height: 75px;
+  flex: 1;
+}
+
+.ItemDetail_01 {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.ItemDetail_01 h1 {
+  font-size: 12px;
+  color: #1976d2;
+  font-weight: bold;
+}
+
+.itemTag {
+  font-size: 8px;
+  padding: 2px 4px;
+
+  background-color: #007200;
+  color: white;
+  width: fit-content;
+  border-radius: 4px;
+}
+
+.itemDescription {
+  font-weight: bold;
+}
+
+.itemcancel {
+  color: #007200;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.itemcancel > div:first-child {
+  font-weight: bold;
+}
+
+.ItemDetail_02 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.rate {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rate p {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.ItemDetail_02 .priceDetail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.priceDetail .p {
+  color: #adb5bd;
+}
+
+.ItemDetail_02 .price {
+  font-size: 15px;
+  margin-right: 0;
+}
+
+.ItemDetail_02 button {
+  font-size: 8px;
+  padding: 4px 10px;
+}
+
+.ItemDetail_02 span {
+  background-color: #023e8a;
+  color: white;
+  font-weight: bold;
+  padding: 1.5px;
+}

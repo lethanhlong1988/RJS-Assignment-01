@@ -1,0 +1,11 @@
+.footer-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-text {
+  font-size: 10px;
+  color: #0466c8;
+  line-height: 1.5;
+}

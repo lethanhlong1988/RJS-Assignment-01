@@ -1,0 +1,7 @@
+.headerHome {
+  margin-top: 0px;
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}

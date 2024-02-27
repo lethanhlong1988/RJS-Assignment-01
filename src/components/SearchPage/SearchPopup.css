@@ -1,0 +1,50 @@
+.SearchPopup_concept h1 {
+  font-size: 15px;
+  color: #495057;
+}
+
+.SearchPopup_concept label {
+  font-size: 10px;
+}
+
+.SearchPopup_concept input:focus {
+  outline: 2px solid #adb5bd;
+}
+
+.SearchPopup_concept button {
+  font-size: 8px;
+  width: 100%;
+  background-color: #0582ca;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 2px;
+}
+
+.inform {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.inform label {
+  color: #495057;
+  font-size: 8px;
+}
+
+.inform div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inform div input {
+  width: 20%;
+  border: 1px solid #6c757d;
+  border-radius: 2px;
+  font-size: 8px;
+}
+
+.SearchPopup_concept input {
+  width: 100%;
+}
