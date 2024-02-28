@@ -3,7 +3,8 @@ import react from "react";
 import "./HotelList.css";
 import HotelItem from "./HotelItem";
 
-import Hotels from "../../../data/hotel_list.json";
+// import Hotels from "../../../data/hotel_list.json";
+import Hotels from "../../data/hotel_list.json";
 
 const HotelList = () => {
   return (

@@ -2,7 +2,8 @@ import React from "react";
 
 import "./Navs.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import navListItem from "../../../data/navBar.json";
+// import navListItem from "../../../data/navBar.json";
+import navListItem from "../../data/navBar.json";
 
 import NavItem from "./NavItem";
 

@@ -4,7 +4,8 @@ import "./Footer.css";
 
 import FooterItem from "./FooterItem";
 
-import footer from "../../../data/footer.json";
+// import footer from "../../../data/footer.json";
+import footer from "../../data/footer.json";
 
 const Footer = () => {
   return (

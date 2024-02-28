@@ -2,7 +2,8 @@ import react from "react";
 
 import CityItem from "./CityItem";
 
-import cityList from "../../../data/city.json";
+// import cityList from "../../../data/city.json";
+import cityList from "../../data/city.json";
 
 import "./CityList.css";
 

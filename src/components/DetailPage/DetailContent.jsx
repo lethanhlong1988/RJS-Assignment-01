@@ -1,7 +1,8 @@
 import "./DetailContent.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import detail from "../../../data/detail.json";
+// import detail from "../../../data/detail.json";
+import detail from "../../data/detail.json";
 
 const DetailContent = () => {
   console.log(detail);

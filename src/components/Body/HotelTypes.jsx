@@ -2,7 +2,8 @@ import react from "react";
 
 import "./HotelTypes.css";
 
-import TypeList from "../../../data/type.json";
+// import TypeList from "../../../data/type.json";
+import TypeList from "../../data/type.json";
 import TypeItem from "./TypeItem";
 
 const HotelTypes = () => {

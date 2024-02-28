@@ -2,7 +2,8 @@ import react from "react";
 
 import SearchItem from "./SearchItem";
 
-import searchList from "../../../data/search.json";
+// import searchList from "../../../data/search.json";
+import searchList from "../../data/search.json";
 
 import "./SearchList.css";
 
